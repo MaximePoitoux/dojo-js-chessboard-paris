@@ -16,3 +16,10 @@ describe("Chessboard", () => {
         expect(chessboard()).toEqual(expectedResult);
     });
 });
+
+
+
+
+
+
+
